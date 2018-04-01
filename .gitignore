@@ -1,3 +1,5 @@
 node_modules/
 1
 .idea/
+options.json
+creds.json

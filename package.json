@@ -6,6 +6,6 @@
     "twilio": "^3.14.0"
   },
   "scripts": {
-    "start": "node src/index.js"
+    "start": "node index.js"
   }
 }
