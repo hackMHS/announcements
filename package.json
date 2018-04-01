@@ -1,0 +1,11 @@
+{
+  "name": "hackmhs-announcements",
+  "author": "David Shustin",
+  "version": "1.0.0",
+  "dependencies": {
+    "twilio": "^3.14.0"
+  },
+  "scripts": {
+    "start": "node src/index.js"
+  }
+}
